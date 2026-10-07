@@ -1,2 +1,2 @@
-# ITFTC
-Individual Tree Functional Type Classification
+[https://3dom.github.io/ITFTC]((https://3dom.github.io/ITFTC))
+
